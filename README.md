@@ -21,7 +21,7 @@ DistilBERT is a lighter version of BERT that retains much of its performance whi
 * Python 3.11.x
 * All dependencies listed in requirements.txt
 
-### Installation commands
+### Installation commands (Windows powershell)
 Clone the repository, create virtual environment, activate environment and install dependencies:
 
 ```bash

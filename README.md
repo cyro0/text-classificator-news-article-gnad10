@@ -15,6 +15,13 @@ DistilBERT is a lighter version of BERT that retains much of its performance whi
 - Model training and evaluation scripts
 
 ## Installation
+
+### Prerequisites
+
+* Python 3.11.x
+* All dependencies listed in requirements.txt
+
+### Installation commands
 Clone the repository, create virtual environment, activate environment and install dependencies:
 
 ```bash

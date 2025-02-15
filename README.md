@@ -26,9 +26,17 @@ Clone the repository, create virtual environment, activate environment and insta
 
 ```bash
 git clone https://github.com/cyro0/text-classificator-news-article-gnad10.git
+```
+```bash
 cd text-classificator-news-article-gnad10
+```
+```bash
 python -m venv .venv
+```
+```bash
 .venv\Scripts\activate
+```
+```bash
 pip install -r requirements.txt
 ```
 

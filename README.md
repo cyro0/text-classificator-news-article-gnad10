@@ -8,13 +8,6 @@ The [GNAD10](community-datasets/gnad10) dataset  consists of 10,000 German news 
 ## Model: DistilBERT with LoRA
 DistilBERT is a lighter version of BERT that retains much of its performance while being faster and requiring fewer resources. LoRA (Low-Rank Adaptation) is used to fine-tune DistilBERT efficiently by injecting small trainable layers into frozen transformer weights, reducing GPU memory requirements.
 
-## Libraries used
-- PEFT 0.14.0
-- Transformers 4.48.3
-- Pytorch 2.6.0+cu118
-- Datasets 3.2.0
-- Tokenizers 0.21.0
-
 ## Features
 - Fine-tuning DistilBERT using LoRA for efficient training
 - Classification of German news articles into 9 categories
